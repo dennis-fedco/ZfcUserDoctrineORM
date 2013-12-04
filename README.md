@@ -12,3 +12,9 @@ Dependencies
 - [ZfcUser](https://github.com/ZF-Commons/ZfcUser)
 - [DoctrineModule](https://github.com/doctrine/DoctrineModule)
 - [DoctrineORMModule](https://github.com/doctrine/DoctrineORMModule)
+
+Installation
+------------
+Install Doctrine: ([note on composer versioning][4])
+
+    php composer.phar require doctrine/doctrine-orm-module:~0.7
